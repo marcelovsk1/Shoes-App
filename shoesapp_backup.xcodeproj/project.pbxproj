@@ -14,6 +14,7 @@
 		0B7F29D52BE421F700E7E417 /* ShoesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7F29D42BE421F700E7E417 /* ShoesModel.swift */; };
 		0B7F29D72BE4221000E7E417 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7F29D62BE4221000E7E417 /* Home.swift */; };
 		0B7F29D92BE4223C00E7E417 /* CustomSceneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7F29D82BE4223C00E7E417 /* CustomSceneView.swift */; };
+		0B7F29DB2BE4226500E7E417 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7F29DA2BE4226500E7E417 /* HomePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		0B7F29D42BE421F700E7E417 /* ShoesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoesModel.swift; sourceTree = "<group>"; };
 		0B7F29D62BE4221000E7E417 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		0B7F29D82BE4223C00E7E417 /* CustomSceneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSceneView.swift; sourceTree = "<group>"; };
+		0B7F29DA2BE4226500E7E417 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				0B7F29D42BE421F700E7E417 /* ShoesModel.swift */,
 				0B7F29D62BE4221000E7E417 /* Home.swift */,
 				0B7F29D82BE4223C00E7E417 /* CustomSceneView.swift */,
+				0B7F29DA2BE4226500E7E417 /* HomePage.swift */,
 			);
 			path = shoesapp_backup;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0B0B47DE2BE41CDC00C2F85D /* ContentView.swift in Sources */,
+				0B7F29DB2BE4226500E7E417 /* HomePage.swift in Sources */,
 				0B7F29D92BE4223C00E7E417 /* CustomSceneView.swift in Sources */,
 				0B0B47DC2BE41CDC00C2F85D /* shoesapp_backupApp.swift in Sources */,
 				0B7F29D72BE4221000E7E417 /* Home.swift in Sources */,
