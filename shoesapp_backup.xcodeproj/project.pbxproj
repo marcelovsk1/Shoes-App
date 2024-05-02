@@ -53,7 +53,6 @@
 		0B0B47CF2BE41CDC00C2F85D = {
 			isa = PBXGroup;
 			children = (
-				0B7F29E42BE4232000E7E417 /* ProfileView.swift */,
 				0B0B47DA2BE41CDC00C2F85D /* shoesapp_backup */,
 				0B0B47D92BE41CDC00C2F85D /* Products */,
 			);
@@ -70,18 +69,14 @@
 		0B0B47DA2BE41CDC00C2F85D /* shoesapp_backup */ = {
 			isa = PBXGroup;
 			children = (
+				0B7F29E92BE4237A00E7E417 /* Database */,
+				0B7F29E82BE4236C00E7E417 /* Navbar */,
+				0B7F29E72BE4235C00E7E417 /* Categories */,
+				0B7F29E62BE4234700E7E417 /* Views */,
 				0B0B47DB2BE41CDC00C2F85D /* shoesapp_backupApp.swift */,
 				0B0B47DD2BE41CDC00C2F85D /* ContentView.swift */,
 				0B0B47DF2BE41CDE00C2F85D /* Assets.xcassets */,
 				0B0B47E12BE41CDE00C2F85D /* Preview Content */,
-				0B7F29D42BE421F700E7E417 /* ShoesModel.swift */,
-				0B7F29D62BE4221000E7E417 /* Home.swift */,
-				0B7F29D82BE4223C00E7E417 /* CustomSceneView.swift */,
-				0B7F29DA2BE4226500E7E417 /* HomePage.swift */,
-				0B7F29DC2BE4229300E7E417 /* AllModels.swift */,
-				0B7F29DE2BE422BC00E7E417 /* Lifestyle.swift */,
-				0B7F29E02BE422EA00E7E417 /* Running.swift */,
-				0B7F29E22BE4230800E7E417 /* BagView.swift */,
 			);
 			path = shoesapp_backup;
 			sourceTree = "<group>";
@@ -92,6 +87,43 @@
 				0B0B47E22BE41CDE00C2F85D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0B7F29E62BE4234700E7E417 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0B7F29D62BE4221000E7E417 /* Home.swift */,
+				0B7F29DA2BE4226500E7E417 /* HomePage.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		0B7F29E72BE4235C00E7E417 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				0B7F29DC2BE4229300E7E417 /* AllModels.swift */,
+				0B7F29DE2BE422BC00E7E417 /* Lifestyle.swift */,
+				0B7F29E02BE422EA00E7E417 /* Running.swift */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		0B7F29E82BE4236C00E7E417 /* Navbar */ = {
+			isa = PBXGroup;
+			children = (
+				0B7F29E22BE4230800E7E417 /* BagView.swift */,
+				0B7F29E42BE4232000E7E417 /* ProfileView.swift */,
+			);
+			path = Navbar;
+			sourceTree = "<group>";
+		};
+		0B7F29E92BE4237A00E7E417 /* Database */ = {
+			isa = PBXGroup;
+			children = (
+				0B7F29D42BE421F700E7E417 /* ShoesModel.swift */,
+				0B7F29D82BE4223C00E7E417 /* CustomSceneView.swift */,
+			);
+			path = Database;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
