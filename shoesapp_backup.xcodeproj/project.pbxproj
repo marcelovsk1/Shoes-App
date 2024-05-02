@@ -16,6 +16,7 @@
 		0B7F29D92BE4223C00E7E417 /* CustomSceneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7F29D82BE4223C00E7E417 /* CustomSceneView.swift */; };
 		0B7F29DB2BE4226500E7E417 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7F29DA2BE4226500E7E417 /* HomePage.swift */; };
 		0B7F29DD2BE4229300E7E417 /* AllModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7F29DC2BE4229300E7E417 /* AllModels.swift */; };
+		0B7F29DF2BE422BC00E7E417 /* Lifestyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7F29DE2BE422BC00E7E417 /* Lifestyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		0B7F29D82BE4223C00E7E417 /* CustomSceneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSceneView.swift; sourceTree = "<group>"; };
 		0B7F29DA2BE4226500E7E417 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
 		0B7F29DC2BE4229300E7E417 /* AllModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllModels.swift; sourceTree = "<group>"; };
+		0B7F29DE2BE422BC00E7E417 /* Lifestyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lifestyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				0B7F29D82BE4223C00E7E417 /* CustomSceneView.swift */,
 				0B7F29DA2BE4226500E7E417 /* HomePage.swift */,
 				0B7F29DC2BE4229300E7E417 /* AllModels.swift */,
+				0B7F29DE2BE422BC00E7E417 /* Lifestyle.swift */,
 			);
 			path = shoesapp_backup;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				0B0B47DE2BE41CDC00C2F85D /* ContentView.swift in Sources */,
 				0B7F29DD2BE4229300E7E417 /* AllModels.swift in Sources */,
 				0B7F29DB2BE4226500E7E417 /* HomePage.swift in Sources */,
+				0B7F29DF2BE422BC00E7E417 /* Lifestyle.swift in Sources */,
 				0B7F29D92BE4223C00E7E417 /* CustomSceneView.swift in Sources */,
 				0B0B47DC2BE41CDC00C2F85D /* shoesapp_backupApp.swift in Sources */,
 				0B7F29D72BE4221000E7E417 /* Home.swift in Sources */,
